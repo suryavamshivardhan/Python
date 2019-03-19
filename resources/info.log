@@ -1,0 +1,21 @@
+2019-03-18 14:33:40,805 - root - INFO - Jackdaws love my big sphinx of quartz.
+2019-03-18 14:33:40,805 - myapp.area1 - INFO - How quickly daft jumping zebras vex.
+2019-03-18 14:33:40,805 - myapp.area2 - WARNING - Jail zesty vixen who grabbed pay from quack.
+2019-03-18 14:33:40,805 - myapp.area2 - ERROR - The five boxing wizards jump quickly.
+2019-03-18 14:33:53,268 - root - INFO - Jackdaws love my big sphinx of quartz.
+2019-03-18 14:33:53,268 - myapp.area1 - INFO - How quickly daft jumping zebras vex.
+2019-03-18 14:33:53,268 - myapp.area2 - WARNING - Jail zesty vixen who grabbed pay from quack.
+2019-03-18 14:33:53,268 - myapp.area2 - ERROR - The five boxing wizards jump quickly.
+2019-03-18 14:34:04,785 - root - INFO - Jackdaws love my big sphinx of quartz.
+2019-03-18 14:34:04,785 - myapp.area1 - INFO - How quickly daft jumping zebras vex.
+2019-03-18 14:34:04,785 - myapp.area2 - WARNING - Jail zesty vixen who grabbed pay from quack.
+2019-03-18 14:34:04,785 - myapp.area2 - ERROR - The five boxing wizards jump quickly.
+2019-03-19 11:01:10,625 - root - ERROR - Application config file is not available at resources, please check !!
+2019-03-19 11:05:25,183 -- root -- ERROR -- Application config file is not available at resources, please check !!
+2019-03-19 11:06:11,105 -- config_reader -- ERROR -- Application config file is not available at resources, please check !!
+2019-03-19 11:07:00,744 -- com.config.config_reader -- ERROR -- Application config file is not available at resources, please check !!
+2019-03-19 11:15:56,301 -- root -- INFO -- Jackdaws love my big sphinx of quartz.
+2019-03-19 11:15:56,301 -- myapp.area1 -- INFO -- How quickly daft jumping zebras vex.
+2019-03-19 11:15:56,302 -- myapp.area2 -- WARNING -- Jail zesty vixen who grabbed pay from quack.
+2019-03-19 11:15:56,302 -- myapp.area2 -- ERROR -- The five boxing wizards jump quickly.
+2019-03-19 11:25:29,777 -- myapp.area2 -- ERROR -- The five boxing wizards jump quickly.
